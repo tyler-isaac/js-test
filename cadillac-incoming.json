@@ -1,0 +1,127 @@
+{
+  "siteKey": "cochran-cadillac",
+  "lastUpdated": "June 10, 2026",
+  "contactUrl": "/contactusform/",
+  "vehicles": [
+    {
+      "year": "2026",
+      "model": "ct5",
+      "trim": "premium luxury awd",
+      "msrp": "",
+      "orderNumber": "cadzp1",
+      "exteriorColor": "crystal white tricoat",
+      "interiorColor": "jet black with jet black accents",
+      "status": "Incoming"
+    },
+    {
+      "year": "2026",
+      "model": "CT5-V",
+      "trim": "v-series rwd",
+      "msrp": "$59,785",
+      "orderNumber": "cad9v2",
+      "exteriorColor": "raven black",
+      "interiorColor": "sky cool gray with jet black accents",
+      "status": "incoming"
+    },
+    {
+      "year": "2025",
+      "model": "xt4",
+      "trim": "sport awd",
+      "msrp": "",
+      "orderNumber": "cad4x8",
+      "exteriorColor": "emerald lake metallic",
+      "interiorColor": "jet black",
+      "status": "INCOMING"
+    },
+    {
+      "year": "2026",
+      "model": "XT5",
+      "trim": "premium luxury awd",
+      "msrp": "57115",
+      "orderNumber": "CADX51",
+      "exteriorColor": "stellar black metallic",
+      "interiorColor": "cirrus with dark titanium accents",
+      "status": "Incoming"
+    },
+    {
+      "year": "2026",
+      "model": "xt6",
+      "trim": "sport awd",
+      "msrp": "65440",
+      "orderNumber": "cadx64",
+      "exteriorColor": "opal white tricoat",
+      "interiorColor": "jet black with bronze carbon fiber trim",
+      "status": " Incoming"
+    },
+    {
+      "year": "2026",
+      "model": "lyriq",
+      "trim": "luxury 2 awd",
+      "msrp": "68790",
+      "orderNumber": "cadl27",
+      "exteriorColor": "argent silver metallic",
+      "interiorColor": "noir with santorini blue accents",
+      "status": "incoming "
+    },
+    {
+      "year": "2026",
+      "model": "Escalade",
+      "trim": "premium luxury platinum 4wd",
+      "msrp": "112835",
+      "orderNumber": "cade91",
+      "exteriorColor": "black raven",
+      "interiorColor": "sheer gray with jet black accents",
+      "status": "Incoming"
+    },
+    {
+      "year": "2026",
+      "model": "escalade iq",
+      "trim": "sport 1 awd",
+      "msrp": "130490",
+      "orderNumber": "cadiq3",
+      "exteriorColor": "flute metallic",
+      "interiorColor": "camelia and backen black",
+      "status": "incoming"
+    },
+    {
+      "year": "2025",
+      "model": "ct4",
+      "trim": "luxury rwd",
+      "msrp": "39295",
+      "orderNumber": "cad4s2",
+      "exteriorColor": "summit white",
+      "interiorColor": "jet black",
+      "status": "Sold"
+    },
+    {
+      "year": "2025",
+      "model": "XT5",
+      "trim": "luxury awd",
+      "msrp": "49875",
+      "orderNumber": "cadx50",
+      "exteriorColor": "radiant red tintcoat",
+      "interiorColor": "jet black",
+      "status": "Hidden"
+    },
+    {
+      "year": "2026",
+      "model": "Lyriq",
+      "trim": "sport 3 awd",
+      "msrp": "74615",
+      "orderNumber": "cadl39",
+      "exteriorColor": "celestial metallic",
+      "interiorColor": "juniper with sky cool gray accents",
+      "status": "Available"
+    },
+    {
+      "year": "2026",
+      "model": "Escalade",
+      "trim": "sport platinum 4wd",
+      "msrp": "115220",
+      "orderNumber": "cade99",
+      "exteriorColor": "galactic gray metallic",
+      "interiorColor": "jet black",
+      "status": "Cancelled"
+    }
+  ]
+}
