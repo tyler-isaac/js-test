@@ -21,7 +21,7 @@
       "orderNumber": "cad9v2",
       "exteriorColor": "raven black",
       "interiorColor": "sky cool gray with jet black accents",
-      "status": "incoming"
+      "status": "Hidden"
     },
     {
       "year": "2025",
@@ -31,7 +31,7 @@
       "orderNumber": "cad4x8",
       "exteriorColor": "emerald lake metallic",
       "interiorColor": "jet black",
-      "status": "INCOMING"
+      "status": "Sold"
     },
     {
       "year": "2026",
