@@ -1,6 +1,6 @@
 {
   "siteKey": "cochran-cadillac",
-  "lastUpdated": "June 10, 2026",
+  "lastUpdated": "June 18, 2026",
   "contactUrl": "/contactusform/",
   "vehicles": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "year": "2026",
-      "model": "CT5-V",
+      "model": "ct5-V",
       "trim": "v-series rwd",
       "msrp": "$59,785",
       "orderNumber": "cad9v2",
